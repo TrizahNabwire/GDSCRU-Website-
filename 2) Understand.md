@@ -43,6 +43,8 @@ Persona 1: Jane
 
 ![GDSCRU User Story](https://user-images.githubusercontent.com/99127888/222881334-6f69e14e-1705-49ca-90c5-d8c45fc638d5.png)
 
+![GDSC User Story 2](https://user-images.githubusercontent.com/99127888/222896896-c341822f-d3cd-460f-b9b5-2cc51f580e2a.png)
+
 
 ## User Journey Map
 #### Illustration of what a user goes through to achieve their goals.
