@@ -12,15 +12,14 @@ I went ahead and interviewed different focus groups to study their reactions and
 #### What the user says, does, thinks and feels.
 #### Used Aggregated empathy map (consolidating feedback from a group of users)
 User : Jane
-Says : "    "
 
-Thinks : 
+Says : "I'm passionate about tech, but it is hard finding a tech group to be part of. It would be nice if their was a club platform that provides such information with learning resources without bothering anyone to add one to a group"
 
+Thinks : Interested in different tech technologies and its better to try several before finding which specific tech field to concentrate fully on.
 
-Does : 
+Does : Looks for an admin or a tech lead in person in order to be added to a group of interest
 
-
-Feels :
+Feels :Annoyed and Frustrated
 
 ## Pain points
 #### Any UX issue that frustrate the user and block the user fro getting what they need.
