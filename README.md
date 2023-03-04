@@ -7,3 +7,7 @@
   #### Criteria of selecting participants to conduct UX research to understand user needs and pain points.
   #### https://github.com/TrizahNabwire/GDSCRU-Website-/blob/main/1)%20Screener%20survey.md
  
+ 
+ ##    Empathize
+ #### Learn more about the user and their problems, wants and needs and the environment or context in which they'll experience your design.
+ #### 
