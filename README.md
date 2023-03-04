@@ -3,5 +3,7 @@
   #    Project Management
   #### Use Lean and Six Sigma project management methodology: that is DMAIC approach
    
-  #    Screener survey
+  ##    Screener survey
   #### Criteria of selecting participants to conduct UX research to understand user needs and pain points.
+  #### https://github.com/TrizahNabwire/GDSCRU-Website-/blob/main/1)%20Screener%20survey.md
+ 
