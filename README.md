@@ -15,4 +15,4 @@
  
  ##    Define
  ####  Analyze research findings from the emphathize phase and determine which user problems are the most important ones to solve and why.
- #### 
+ ####  https://github.com/TrizahNabwire/GDSCRU-Website-/blob/main/3)%20Define.md
