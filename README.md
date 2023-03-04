@@ -16,3 +16,13 @@
  ##    Define
  ####  Analyze research findings from the emphathize phase and determine which user problems are the most important ones to solve and why.
  ####  https://github.com/TrizahNabwire/GDSCRU-Website-/blob/main/3)%20Define.md
+ 
+ 
+ ##    Ideate
+ ####  Ideation is the process of generating a broad set of ideas on a given topic with no attempt to judge or evaluate them.
+ ## Ways to Ideate
+ #### Using insights from competitive audits/analysis
+ #### "How Might We" - a design thinking activity used to translate problems into opportunities for design.
+ #### Sketching - Crazy Eights
+ 
+##### I used Competitive Analysis
