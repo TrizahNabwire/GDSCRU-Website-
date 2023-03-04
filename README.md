@@ -26,3 +26,4 @@
  #### Sketching - Crazy Eights
  
 ##### I used Competitive Analysis
+#### https://github.com/TrizahNabwire/GDSCRU-Website-/blob/main/4)%20Ideate.md
