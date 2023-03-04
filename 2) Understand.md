@@ -31,20 +31,10 @@ Feels :Annoyed and Frustrated
 ## Persona
 #### A fictional user whose goals and characteristics represent the needs of a larger group of users. User group is a set of people who have similar interests, goals or concerns
 
-Persona : Jane
-### Demographic Info: 
-#### Image
-#### Name : Jane Njeri
-#### Education : BSc IT
+Persona 1: Jane
 
-### Goals
+![GDSCRU Persona 1](https://user-images.githubusercontent.com/99127888/222885349-0f71eaae-af34-4e2c-b89e-8014d363e3f7.png)
 
-
-
-### Frustations
-
-
-### Brief story
 
 
 ## User Story
