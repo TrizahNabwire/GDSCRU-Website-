@@ -1,5 +1,8 @@
 # Google Style Guide 
 ( https://m2.material.io/design/communication/writing.html#principles)
+
+# Writing
+Text should be understandable by anyone, anywhere, regardless of their culture or language.
 ## Be concise
 
 To facilitate navigation and discovery, write UI text in short, scannable segments that focus on a limited number of concepts at a time.
