@@ -50,6 +50,7 @@ Persona : Jane
 ## User Story
 #### Fictional one-sentence story told from a persona's point of view to inspire and infrom design decisions.
 
+![GDSCRU User Story](https://user-images.githubusercontent.com/99127888/222881334-6f69e14e-1705-49ca-90c5-d8c45fc638d5.png)
 
 
 ## User Journey Map
