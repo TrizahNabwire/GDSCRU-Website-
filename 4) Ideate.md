@@ -1,25 +1,6 @@
 # Ideate
 
+## How Might We
 
-
-
-## Analyze findings(SWOT analysis)
-### Strengths
-
-
-
-###Weaknesses
-
-
-
-###Opportunities
-
-
-
-###Threats
-
-
-
-## Report 
 
 
