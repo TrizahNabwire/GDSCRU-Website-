@@ -49,6 +49,8 @@ Persona 1: Jane
 ## User Journey Map
 #### Illustration of what a user goes through to achieve their goals.
 
+![GDSCRU Jane User Journey Map](https://user-images.githubusercontent.com/99127888/222943531-e99ffe7e-fd45-4caa-a0da-e7c2c32149f5.png)
+
 
 
 
