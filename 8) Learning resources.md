@@ -2,4 +2,5 @@
 #### UX Writing Principles   https://m2.material.io/design/communication/writing.html#principles)
 #### UXWritingHub   https://uxwritinghub.com  
 #### Material's Communication Principles: Intro to UX Writing    https://codelabs.developers/material-communication-guidance#9
+#### Information Architecture    https://xd.adobe.com/ideas/process/information-architecture/visual-sitemap-examples-website-designs/
 UI Design Challenges
