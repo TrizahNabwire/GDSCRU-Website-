@@ -10,3 +10,14 @@
 #### How Might We ensure that the platform is easily accessible 
 #### How Might We position ourselves to the job market
 
+## Ideas
+#### Provide Google Codelabs then other resources in different groups(Priorise Google technologies because this is a Google program, but still different individuals are passionate in different tech fields, they also need learning resources from the club)
+
+#### Photos can be accessed from past events only, You can expect photos upcoming events
+
+#### Besides, photos section in a past event, presentation slides would be effective being alongside it
+
+#### Authenticate to find out if the user is a member or a mentor who will contribute to the growth of the club.
+
+
+
