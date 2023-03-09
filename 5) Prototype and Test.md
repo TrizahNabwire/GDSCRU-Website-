@@ -12,6 +12,7 @@
 
 ## Information Architecture
 #### Organizes content to help users understand where they are in a product and where the information they want is.
+![GDSCRU IA](https://user-images.githubusercontent.com/99127888/223904119-3ecd983c-4828-4161-ac93-1085e7eadffe.png)
 
 
 
