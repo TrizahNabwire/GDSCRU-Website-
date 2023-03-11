@@ -20,8 +20,11 @@
 
 
 ## Paper Wireframes
+![Join a Team Wireframe](https://user-images.githubusercontent.com/99127888/224467555-b8161d5e-e6d3-45db-abe3-7bf43877d8a5.jpeg)
 
-![WhatsApp Image 2023-03-08 at 17 56 01](https://user-images.githubusercontent.com/99127888/223915430-795b3860-0562-4a72-a81f-08243b0b6254.jpeg)
+![past events wireframe](https://user-images.githubusercontent.com/99127888/224467388-952d53cc-983d-4704-b3a5-ff79143fbe61.jpeg)
+
+
 
 
 
