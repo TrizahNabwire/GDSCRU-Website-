@@ -41,18 +41,7 @@
 
 
 
-## Usability Study
-#### Research Study Plan
 
-[GDSCRU UX Research Study Plan .pdf](https://github.com/TrizahNabwire/GDSCRU-Website-/files/10947634/GDSCRU.UX.Research.Study.Plan.pdf)
-
-#### Usability Study note-taking spreadsheet
-
-
-#### Affinity Map
-
-
-#### Insight Identification
 
 
 
@@ -66,6 +55,20 @@
 
 
 ## High-fidelity prototypes
+
+
+## Usability Study
+#### Research Study Plan
+
+[GDSCRU UX Research Study Plan .pdf](https://github.com/TrizahNabwire/GDSCRU-Website-/files/10947634/GDSCRU.UX.Research.Study.Plan.pdf)
+
+#### Usability Study note-taking spreadsheet
+
+
+#### Affinity Map
+
+
+#### Insight Identification
 
 
 
