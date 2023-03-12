@@ -31,11 +31,25 @@
 
 
 ## Digital Wireframes
+#### Desktop 
 
 ![Homepage](https://user-images.githubusercontent.com/99127888/224534175-c2a65500-6aca-490c-bb2f-7f9cd90df503.png)
+
 ![Homepage for past events](https://user-images.githubusercontent.com/99127888/224534238-cf78a164-378f-4d31-a9e7-55fe67934a01.png)
+
 ![Join a team](https://user-images.githubusercontent.com/99127888/224534277-e24b87dc-c7aa-477a-b600-03ca43c37918.png)
+
 ![Specific team](https://user-images.githubusercontent.com/99127888/224534309-7b8696bb-f5e0-4a1a-8901-72055410dfb7.png)
+
+#### Mobile
+![Homepage Mobile](https://user-images.githubusercontent.com/99127888/224534655-eae4e21a-2c60-4941-9686-6650264ce07f.png)
+
+![Homepage for past events Mobile](https://user-images.githubusercontent.com/99127888/224534568-296a20ae-5d73-4965-98be-b8ee4e84c26b.png)
+
+![Join a team Mobile](https://user-images.githubusercontent.com/99127888/224534577-6a30476b-2f16-43a8-85a9-1d9da851c5a1.png)
+
+![Specific Team Mobile](https://user-images.githubusercontent.com/99127888/224534581-7dce0cc5-ab5c-44cc-835e-7462738afcdf.png)
+
 
 [Uploading GDSCRU DIGITAL WIREFRAMES.pdf…]()
 
