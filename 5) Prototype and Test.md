@@ -32,11 +32,15 @@
 
 ## Digital Wireframes
 
+[Uploading GDSCRU DIGITAL WIREFRAMES.pdf…]()
 
 
 
 
 ## Low-fidelity prototype
+https://www.figma.com/file/cxPxDibJUK28A12LXYCrin/GDSCRU?node-id=0%3A1&t=m5BtmWCxIWhDCLpB-1
+
+![GDSCRU Prototype1](https://user-images.githubusercontent.com/99127888/224533698-91e3811d-f4e2-4c01-a46a-7e5a1f64caa7.png)
 
 
 
