@@ -20,14 +20,11 @@
 
 
 ## Paper Wireframes
-![Join a Team Wireframe](https://user-images.githubusercontent.com/99127888/224467555-b8161d5e-e6d3-45db-abe3-7bf43877d8a5.jpeg)
 
-![past events wireframe](https://user-images.githubusercontent.com/99127888/224467388-952d53cc-983d-4704-b3a5-ff79143fbe61.jpeg)
-
-
-
-
-
+![WhatsApp Image 2023-03-15 at 00 07 41](https://user-images.githubusercontent.com/99127888/225256706-bf1cf423-b2fa-4525-b3e6-11dc3d7923c8.jpeg)
+![WhatsApp Image 2023-03-15 at 00 07 42](https://user-images.githubusercontent.com/99127888/225256723-af3fbba4-7098-43a3-b2c7-bb9172333af4.jpeg)
+![WhatsApp Image 2023-03-15 at 00 07 42 (1)](https://user-images.githubusercontent.com/99127888/225256734-3363aee4-c1fc-4068-800f-dcf94f9eb42b.jpeg)
+![WhatsApp Image 2023-03-15 at 00 07 43](https://user-images.githubusercontent.com/99127888/225256752-9741cc06-1f7b-4e1e-8054-384503bd61c2.jpeg)
 
 
 ## Digital Wireframes
