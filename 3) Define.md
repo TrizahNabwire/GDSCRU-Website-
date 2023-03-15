@@ -13,4 +13,4 @@
 #### Ease in joining different tech groups within the club.
 #### Easy flow to access photos.
 #### Access to presentation slides
-#### Integrate becoming a member feature, RSVP for upcoming events
+#### Integrate becoming a member feature, RSVP for upcoming events from https://gdsc.community.dev/rongo-university/
