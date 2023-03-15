@@ -1,6 +1,7 @@
 ## User Flow
 #### Path taken by a typical user on our website so they can complete a task from start to finish.
 
+![User Flow](https://user-images.githubusercontent.com/99127888/225269200-46edaf19-10c5-4d60-9498-0c483d930c83.png)
 
 
 
