@@ -51,6 +51,7 @@ Persona 1: Jane
 
 ![GDSCRU Jane User Journey Map](https://user-images.githubusercontent.com/99127888/222943531-e99ffe7e-fd45-4caa-a0da-e7c2c32149f5.png)
 
+![GDSC Doe User Journey Map](https://user-images.githubusercontent.com/99127888/225250470-488f1a0c-c009-4d6f-b531-5a31cac70fbf.png)
 
 
 
