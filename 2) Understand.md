@@ -35,6 +35,8 @@ Persona 1: Jane
 
 ![GDSCRU Persona 1](https://user-images.githubusercontent.com/99127888/222885349-0f71eaae-af34-4e2c-b89e-8014d363e3f7.png)
 
+Persona 2: Doe
+
 ![GDSCRU Persona 2](https://user-images.githubusercontent.com/99127888/222894798-8c88dfc7-1aab-4836-8856-3ea2217a13b2.png)
 
 
