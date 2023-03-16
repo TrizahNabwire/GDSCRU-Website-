@@ -20,7 +20,7 @@
 #### Authenticate to find out if the user is a member or a mentor who will contribute to the growth of the club.
 
 
-## SWOT analysis of 
+## SWOT analysis of https://gdsc.community.dev/rongo-university
 ### Strengths:
 
 Strong connection with Rongo University, which can provide resources and support
